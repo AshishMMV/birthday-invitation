@@ -1,2 +1,2 @@
 # birthday-invitation
-Special Birthday Invitation
+Special Invitation
